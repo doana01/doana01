@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @doana - 
-- 👀 I’m interested in coding, collaborating and working remote for a company as well as everything tech
-- 🌱 I’m currently learning more of PHP /WordPress for Developer, MERN Fullstack, REACT zero to mastery, JAVASCRIPT Fullstack..
+- 👀 I’m interested collaborating and working remote for a company -i love coding
+- 🌱 I’m currently learning more of: PHP /WordPress for Developer, MERN Fullstack, REACT zero to mastery, JAVASCRIPT Fullstack..
 - 💞️ I’m looking to collaborate on my current project Mimoolah 
-- 📫 How to reach me is by sending me a message on linkedin- link which can be found in the bottom page on one of my projects. 
+- 📫 How to reach me is by sending me a message on linkedin please - thanks
 Cheers!
 
 <!---
