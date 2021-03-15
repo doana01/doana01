@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doana - a front-end/react developer
+- 👋 Hi, I’m @doana - 
 - 👀 I’m interested in coding, collaborating and working remote for a company as well as everything tech
 - 🌱 I’m currently learning more of PHP /WordPress for Developer, MERN Fullstack, REACT zero to mastery, JAVASCRIPT Fullstack..
 - 💞️ I’m looking to collaborate on my current project Mimoolah 
