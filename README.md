@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @doana - 
 - 👀 I’m interested in collaborating and or working remotely for a company in the near future -i love coding and would be happy to code all day long
-- 🌱 I’m currently learning more of: JavaScript Fullstack, REACT Zero to Mastery, Fullstack Web Development, UX/UI design..
-- 💞️ I’m also looking to collaborate on my current project Mimoolah 
+- 🌱 I’m currently learning more of: JavaScript Fullstack, REACT Zero to Mastery, Fullstack Web Development, UX/UI design.
 - 📫 Please reach me on linkedin - thanks
 Cheers!
 
