@@ -2,8 +2,8 @@
 - 👀 I’m interested in collaborating -I love coding and would be happy to code all day long for a great company.
 - 🌱 I’m currently learning more of: JavaScript Fullstack, REACT Zero to Mastery, Fullstack Web Development Junior to Senior, React Native, UX/UI design.
 - ✨ These are some of the few projects I completed so far : 
-- React: https://crwn-doana.herokuapp.com - ps signout button might not work due to the free account i have with firebase :)
-- WP - https://doanauniversity1.com
+- React Master Project-Build Ecommerce: https://crwn-doana.herokuapp.com - ps signout button might not work due to the free account i have with firebase :)
+- WP PHP- Master Project - Build University - https://doanauniversity1.com
 - WP - https://doanasportfolio.com
 - WP - http://childrenfirst.fr
 - React Weather App - https://unruffled-goodall-cbec85.netlify.app
