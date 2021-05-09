@@ -10,7 +10,7 @@
 - Vanilla Weather App - https://quizzical-cori-985c7e.netlify.app
 - I am also the founder of the start- up Mimoolah project and at this point we are focusing on slowly building a long-term dedicated technical team and finding solid investors.
 - Please see our prototype website @ www.mimoolah.com 
-- 📫 Please reach me on linkedin - https://www.linkedin.com/in/mimoolah thanks.
+- 📫 Thank you for contacting me on linkedin - https://www.linkedin.com/in/mimoolah thanks.
 Cheers!
 
 
