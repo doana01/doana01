@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doana - a workaholic.
+- 👋 Hi, I’m @doana 
 - 👀 I’m interested in collaborating -I love coding and would be happy to code all day long for a great company.
 - 🌱 I’m currently learning more of: JavaScript Fullstack, React Zero to Mastery, Fullstack Web Development Junior to Senior, React Native, UX/UI design.
 - ✨ These are some of the few projects I completed so far : 
